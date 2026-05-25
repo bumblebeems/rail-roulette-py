@@ -6,15 +6,13 @@ def menu(data: dict[str, Any]) -> None:
     core.clear()
 
     print('\n-+ Options +-\n')
-    print(
-        core.print_menu(
-            [
-                'Colour mode',
-                'Mark station as visited',
-                'Reset visited stations',
-                'Main menu',
-            ]
-        )
+    core.print_menu(
+        [
+            'Colour mode',
+            'Mark station as visited',
+            'Reset visited stations',
+            'Main menu',
+        ]
     )
 
     while True:

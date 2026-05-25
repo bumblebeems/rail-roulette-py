@@ -208,7 +208,7 @@ def fuzzy_search(data: dict[str, Any], include_visited: bool = False) -> str | N
                     '\nFound multiple stations, please select one from the options below:\n'
                 )
 
-                print(print_menu(search + ['Return to main menu']))
+                print_menu(search + ['Return to main menu'])
                 while True:
                     choice: str | int = input('> ')
 
