@@ -1042,102 +1042,203 @@
             "zone": "2"
         },
         "Brighton Beach": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Wheelchair accessible",
+                "Steep boarding (platforms 2 and 3)",
+                "Hearing loop",
+                "Accessible toilets"
+            ],
+            "code": "BBH",
             "distance": 15.97,
-            "facilities": [],
+            "facilities": [
+                "Parking (187)",
+                "Bike lockers",
+                "Shelter on platform 2",
+                "Passenger info displays",
+                "Toilets"
+            ],
             "line": [
                 "Sandringham"
             ],
-            "location": "",
+            "location": "Brighton",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "600": "Southland Shopping Centre - St Kilda Station",
+                    "603": "Brighton Beach Station - Burnley Station",
+                    "923": "Southland Shopping Centre - St Kilda Station"
+                }
+            },
+            "opened": "21st of December 1861",
+            "platforms": "3 (1 island, 1 side)",
+            "staffed": "Yes",
+            "stations_down": [
+                "Hampton"
+            ],
+            "stations_up": [
+                "Middle Brighton"
+            ],
             "time": 2,
-            "zone": ""
+            "zone": "1 and 2"
         },
         "Broadmeadows": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Wheelchair accessible",
+                "Steep boarding (platform 2)",
+                "Accessible toilets"
+            ],
+            "code": "BMS",
             "distance": 16.85,
-            "facilities": [],
+            "facilities": [
+                "Parking (151)",
+                "Bike lockers",
+                "Shelter (all platforms)",
+                "Passenger info displays",
+                "Toilets"
+            ],
             "line": [
                 "Craigieburn"
             ],
-            "location": "",
+            "location": "Broadmeadows",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "477": "Moonee Ponds Junction - Broadmeadows Station",
+                    "484": "Broadmeadows Station - Roxburgh Park Station",
+                    "532": "Craigieburn Station - Broadmeadows Station",
+                    "538": "Somerset Estate - Broadmeadows Station",
+                    "540": "Upfield Station - Broadmeadows Station",
+                    "541": "Broadmeadows Station - Craigieburn North",
+                    "542": "Roxburgh Park Station - Pascoe Vale Station",
+                    "901": "Frankston Station - Melbourne Airport",
+                    "902": "Chelsea Station - Westfield Airport West",
+                    "953": "Broadmeadows Station - Craigieburn",
+                    "959": "Melbourne CBD - Broadmeadows Station"
+                }
+            },
+            "opened": "1st of February 1873",
+            "platforms": "3 (side)",
+            "staffed": "Yes",
+            "stations_down": [
+                "Coolaroo"
+            ],
+            "stations_up": [
+                "Jacana"
+            ],
             "time": 2,
-            "zone": ""
+            "zone": "2"
         },
         "Brunswick": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Wheelchair accessible"
+            ],
+            "code": "BWK",
             "distance": 7.31,
-            "facilities": [],
+            "facilities": [
+                "Parking (20)",
+                "Bike lockers"
+            ],
             "line": [
                 "Upfield"
             ],
-            "location": "",
+            "location": "Brunswick",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "508": "Alphington Station - Moonee Ponds Junction",
+                    "509": "Brunswick West - Barkly Square Shopping Centre",
+                    "951": "Brunswick Station - Glenroy Station"
+                },
+                "Tram": {
+                    "19": "North Coburg - Flinders Street Station"
+                }
+            },
+            "opened": "9th of September 1884",
+            "platforms": "2 (side)",
+            "staffed": "No",
+            "stations_down": [
+                "Anstey"
+            ],
+            "stations_up": [
+                "Jewell"
+            ],
             "time": 1,
-            "zone": ""
+            "zone": "1"
         },
         "Burnley": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep ramp",
+                "Independent boarding (platforms 3 and 4)",
+                "Steep boarding (platform 2)",
+                "Accessible toilets"
+            ],
+            "code": "BLY",
             "distance": 5.33,
-            "facilities": [],
+            "facilities": [
+                "Parking",
+                "Passenger info displays",
+                "Toilets"
+            ],
             "line": [
                 "Alamein",
                 "Belgrave",
                 "Glen Waverley",
                 "Lilydale"
             ],
-            "location": "",
+            "location": "Burnley",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "603": "Brighton Beach Station - Burnley Station"
+                },
+                "Tram": {
+                    "70": "Waterfront City Docklands - Wattle Park"
+                }
+            },
+            "opened": "1st of May 1880",
+            "platforms": "4 (2 island)",
+            "staffed": "Yes",
+            "stations_down": [
+                "Hawthorn",
+                "Heyington"
+            ],
+            "stations_up": [
+                "East Richmond"
+            ],
             "time": 0,
-            "zone": ""
+            "zone": "1"
         },
         "Burwood": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep ramp"
+            ],
+            "code": "BWD",
             "distance": 14.17,
-            "facilities": [],
+            "facilities": [
+                "Parking (150)",
+                "Passenger info displays"
+            ],
             "line": [
                 "Alamein"
             ],
-            "location": "",
+            "location": "Glen Iris",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Tram": {
+                    "75": "Vermont South - Central Pier Docklands"
+                }
+            },
+            "opened": "30th of May 1890",
+            "platforms": "2 (side)",
+            "staffed": "No",
+            "stations_down": [
+                "Ashburton"
+            ],
+            "stations_up": [
+                "Hartwell"
+            ],
             "time": 2,
-            "zone": ""
+            "zone": "1"
         },
         "Camberwell": {
             "accessibility": [],
