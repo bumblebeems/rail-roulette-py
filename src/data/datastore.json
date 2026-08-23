@@ -1061,104 +1061,191 @@
             "zone": ""
         },
         "Broadmeadows": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep boarding (platform 2)",
+                "Accessible toilets"
+            ],
+            "code": "BMS",
             "distance": 16.85,
-            "facilities": [],
+            "facilities": [
+                "Parking (151)",
+                "Bike lockers",
+                "Toilets",
+                "Passenger info displays",
+                "Shelter on platform 2"
+            ],
             "line": [
                 "Craigieburn"
             ],
-            "location": "",
+            "location": "Broadmeadows",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "477": "Broadmeadows station - Moonee Ponds",
+                    "901": "SmartBus: Melbourne Airport - Frankston station",
+                    "902": "SmartBus: Chelsea - Airport West"
+                }
+            },
+            "opened": "1st of February 1873",
+            "platforms": "3 (side)",
+            "staffed": "Yes",
+            "stations_down": [
+                "Coolaroo"
+            ],
+            "stations_up": [
+                "Jacana"
+            ],
             "time": 2,
-            "zone": ""
+            "zone": "2"
         },
         "Brunswick": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep ramp"
+            ],
+            "code": "BWK",
             "distance": 7.31,
             "facilities": [],
             "line": [
                 "Upfield"
             ],
-            "location": "",
+            "location": "Brunswick",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "508": "Alphington station - Moonee Ponds Junction",
+                    "509": "Brunswick West - Barkly Square"
+                },
+                "Tram": {
+                    "19": "North Coburg - Flinders St station"
+                }
+            },
+            "opened": "9th of September 1884",
+            "platforms": "2 (side)",
+            "staffed": "No",
+            "stations_down": [
+                "Anstey"
+            ],
+            "stations_up": [
+                "Jewell"
+            ],
             "time": 1,
-            "zone": ""
+            "zone": "1"
         },
         "Burnley": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep ramp",
+                "Independent boarding (platform 3)",
+                "Independent boarding (platform 4)",
+                "Accessible toilets"
+            ],
+            "code": "BLY",
             "distance": 5.33,
-            "facilities": [],
+            "facilities": [
+                "Toilets",
+                "Passenger info displays",
+                "Parking",
+                "Shelter (all platforms)"
+            ],
             "line": [
                 "Alamein",
                 "Belgrave",
                 "Glen Waverley",
                 "Lilydale"
             ],
-            "location": "",
+            "location": "Burnley",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Tram": {
+                    "70": "Waterfront City Docklands - Wattle Park"
+                }
+            },
+            "opened": "1st of May 1880",
+            "platforms": "4 (2 island)",
+            "staffed": "Yes",
+            "stations_down": [
+                "Hawthorn",
+                "Heyington"
+            ],
+            "stations_up": [
+                "East Richmond"
+            ],
             "time": 0,
-            "zone": ""
+            "zone": "1"
         },
         "Burwood": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep ramp"
+            ],
+            "code": "BWD",
             "distance": 14.17,
-            "facilities": [],
+            "facilities": [
+                "Parking (150)",
+                "Passenger info displays"
+            ],
             "line": [
                 "Alamein"
             ],
-            "location": "",
+            "location": "Glen Iris",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Tram": {
+                    "75": "Vermont South - Central Pier (Docklands)"
+                }
+            },
+            "opened": "30th of May 1890",
+            "platforms": "2 (side)",
+            "staffed": "No",
+            "stations_down": [
+                "Ashburton"
+            ],
+            "stations_up": [
+                "Hartwell"
+            ],
             "time": 2,
-            "zone": ""
+            "zone": "1"
         },
         "Camberwell": {
-            "accessibility": [],
-            "code": "",
+            "accessibility": [
+                "Steep ramp",
+                "Independent boarding (platform 3)",
+                "Accessible toilets"
+            ],
+            "code": "CAM",
             "distance": 10.21,
-            "facilities": [],
+            "facilities": [
+                "Parking",
+                "Toilets",
+                "Passenger info displays",
+                "Shelter (all platforms)"
+            ],
             "line": [
                 "Alamein",
                 "Belgrave",
                 "Lilydale"
             ],
-            "location": "",
+            "location": "Camberwell",
             "misc": [],
-            "nearby_pt": {},
-            "opened": "",
-            "platforms": "",
-            "staffed": "",
-            "stations_down": [],
-            "stations_up": [],
+            "nearby_pt": {
+                "Bus": {
+                    "612": "Box Hill station - Chadstone SC",
+                    "285": "Camberwell - Doncaster Park & Ride"
+                },
+                "Tram": {
+                    "72": "Melbourne University - Camberwell"
+                }
+            },
+            "opened": "3rd of April 1882",
+            "platforms": "3 (1 island, 1 side)",
+            "staffed": "Yes",
+            "stations_down": [
+                "Riversdale",
+                "East Camberwell"
+            ],
+            "stations_up": [
+                "Auburn"
+            ],
             "time": 1,
-            "zone": ""
+            "zone": "1"
         },
         "Canterbury": {
             "accessibility": [],
