@@ -1,5 +1,5 @@
-# !!! unmaintained and unfinished, wanted to write this in a different lang !!!
----
+# !!! UNFINISHED & UNMAINTAINED !!!
+
 # Rail Roulette 🚉
 ### A simple TUI program to randomly pick stations on the Melbourne Metro network + other useful related things.
 
